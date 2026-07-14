@@ -3,7 +3,7 @@ An R package to simplify daily use of the UK Biobank Research Analysis Platform.
 
 ## Status: Coming soon
 
-The UKB RAP is currently offline. Package release is paused until the platform is back online and the codebase can be finalised against a working environment.
+The UKB RAP is currently offline. Package release is paused until the platform is back online and the codebase can be finalized against a working environment.
 
 ## Get notified when it's ready
 
@@ -14,14 +14,14 @@ Pick whichever is easier:
 
 ## What it does
 
-UKBEasieR wraps the DNAnexus `dx` CLI into a set of R functions covering the routine tasks a UKB RAP user does day-to-day:
+UKBEasieR wraps the DNAnexus `dx` CLI as well as other UKB RAP fucntionality into a set of R functions covering the routine tasks a user does day-to-day:
 
 - **Setup** — project initialization
 - **Data access** — phenotype downloads
 - **Daily workflow** — saving, syncing, and backing up files between RStudio VM instance and RAP storage
 - **Collaboration** — project sharing and diffing between researchers approved under the same UKB application
 
-The goal is to reduce the number of DNAnexus concepts a user needs to hold in their head to get work done.
+The goal is to reduce the number of UKB RAP environment manipulation concepts a user needs to consider so that users can focus on research.
 All access stays within the UKB RAP's permission model — the package doesn't expose data outside what your UKB application already permits.
 
 ## Talk
