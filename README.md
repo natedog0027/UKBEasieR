@@ -9,7 +9,7 @@ The UKB RAP is currently offline. Package release is paused until the platform i
 
 Pick whichever is easier:
 
-- **Watch this repo** — click **Watch** → **Custom** → tick **Releases** at the top of this page. GitHub will email you when v0.1.0 ships.
+- **Watch this repo** — Login to GitHub, click **Watch** → **Custom** → tick **Releases** at the top of this page. GitHub will email you when v0.1.0 ships.
 - **Join the mailing list** — [sign up here](https://forms.gle/YOUR-FORM-ID) with your email and I'll send a one-off announcement when the package is installable.
 
 ## What it does
@@ -30,7 +30,7 @@ Presented at **ISMB 2026** (BioInfo-Core track, 14 July 2026).
 
 ## Contact
 
-Questions or suggestions: [open an issue](../../issues) or email [your@email].
+Questions or suggestions: email nkennedy@lmri.net.
 
 ## License
 
