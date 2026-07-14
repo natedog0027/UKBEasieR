@@ -10,7 +10,7 @@ The UKB RAP is currently offline. Package release is paused until the platform i
 Pick whichever is easier:
 
 - **Watch this repo** — Login to GitHub, click **Watch** → **Custom** → tick **Releases** at the top of this page. GitHub will email you when v0.1.0 ships.
-- **Join the mailing list** — [sign up here](https://forms.gle/YOUR-FORM-ID) with your email and I'll send a one-off announcement when the package is installable.
+- **Join the mailing list** — [sign up here](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.cloud.microsoft%2Fr%2F0vUS2QHz99&data=05%7C02%7Cnkennedy%40lmri.net%7Ce5aa2d54b2384131771f08dee1b79a78%7Cfdb5c40144fa493e8bc2a641d5152895%7C0%7C0%7C639196376319670707%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&sdata=t%2B0plE1hrXPBB1DToW4jU4DeDHzsRLIdh2xbHtAPp48%3D&reserved=0) with your email and I'll send a one-off announcement when the package is installable.
 
 ## What it does
 
